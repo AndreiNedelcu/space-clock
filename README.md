@@ -8,4 +8,4 @@ to run the app:
 npm start
 
 
-Live demo: space-clock.netlify.app
+Live demo: https://space-clock.netlify.app/
