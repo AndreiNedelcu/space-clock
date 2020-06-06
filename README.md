@@ -6,3 +6,6 @@ npm install
 
 to run the app: 
 npm start
+
+
+Live demo: space-clock.netlify.app
